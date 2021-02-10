@@ -1,22 +1,15 @@
 .head{
     text-align: center;
 }
-.interest{
 
-   
-
-}
 .inter{
     text-align: center;
     color: green;
 }
-.section{
-
-    
-}
 .pic{
     text-align: right;
     margin-right: 0.2em;
+    margin-bottom: 05em;
 }
 .intscale{
     text-align: center;
@@ -25,18 +18,67 @@
 .form-control form-control-lg{
     text-align: center;
 }
-table,
-      th,
-      td {
-        padding: 10px;
-        border: 1px solid black;
-        border-collapse: collapse;
-        text-align: center;
-        width: 100%;
-
-        margin-right: 1em;
-        
-      }
+.academicbg{
+    text-align: center;
+}
     .text{
         text-align: center;
     }
+    h1{
+        font-family: Lobster;
+       
+    }
+    h2{
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+    }
+    table{
+        width: 100%;
+        border-collapse: collapse;
+        
+
+    }
+    table,
+    th,
+    td{
+        border: 1px solid black;
+    }
+    th{
+        background-color: blueviolet;
+        font-style: italic;
+        text-transform: uppercase;
+    }
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+      }
+     li{
+         color: black;
+        text-align: left;
+     }
+     body {
+
+        text-align: center;
+    
+    }
+    p {
+        font-family: Georgia, "Times New Roman", Times, serif;
+        font-size: 12px;
+        color: #039;
+        background-color: #FCEBB6;
+        text-align: left;
+       }
+       body 
+      {
+        margin-top:10px;
+        margin-left:12px;
+        margin-right:12px;
+
+       }
+    /* .container {
+        border-radius: 5px;
+        background-color: #272ad4;
+        padding: 20px;
+      }
+       */
+       
